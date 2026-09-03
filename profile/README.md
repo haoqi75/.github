@@ -30,6 +30,6 @@
 
 [![首页](https://img.shields.io/endpoint?url=https%3A%2F%2Fhaoqi75.cn.mt%2Fapi%2Fbadge%3Fid%3Dmy_page%26label%3D%25E9%25A6%2596%25E9%25A1%25B5%26up%3D%25E5%259C%25A8%25E7%25BA%25BF%26down%3D%25E7%25A6%25BB%25E7%25BA%25BF%26colorUp%3Dcyan%26colorDown%3Dgrey&style=for-the-badge&logoColor=white&labelColor=red
 )](https://haoqi75.os.kg)
-[![博客](https://img.shields.io/endpoint?url=https%3A%2F%2Fhaoqi75.cn.mt%2Fapi%2Fbadge%3Fid%3Dmy_blog%26label%3D%25E5%258D%259A%25E5%25AE%25A2%26up%3D%25E5%259C%25A8%25E7%25BA%25BF%26down%3D%25E7%25A6%25BB%25E7%25BA%25BF%26colorUp%3Dcyan%26colorDown%3Dgrey&style=for-the-badge&logoColor=white&labelColor=red)](https://blog.aqstand.cc.cd/)
+[![博客](https://img.shields.io/endpoint?url=https%3A%2F%2Fhaoqi75.cn.mt%2Fapi%2Fbadge%3Fid%3Dmy_blog%26label%3D%25E5%258D%259A%25E5%25AE%25A2%26up%3D%25E5%259C%25A8%25E7%25BA%25BF%26down%3D%25E7%25A6%25BB%25E7%25BA%25BF%26colorUp%3Dcyan%26colorDown%3Dgrey&style=for-the-badge&logoColor=white&labelColor=red)](https://bisebre.qzz.io/)
 
 
